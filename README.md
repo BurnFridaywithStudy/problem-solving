@@ -13,3 +13,9 @@
 | 삼각 달팽이 - Level 2          | https://school.programmers.co.kr/learn/courses/30/lessons/68645 |
 | 거리두기 확인하기 - Level 2    | https://school.programmers.co.kr/learn/courses/30/lessons/81302 |
 | 행렬의 곱셈 - Level 2          | https://school.programmers.co.kr/learn/courses/30/lessons/12949 |
+
+### 2.문자열
+| 문제                         | 링크                                                         |
+| :--------------------------- | :----------------------------------------------------------- |
+| 시저 암호 - Level 1          | https://school.programmers.co.kr/learn/courses/30/lessons/12926 |
+| 이상한 문자 만들기 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/12930 |
