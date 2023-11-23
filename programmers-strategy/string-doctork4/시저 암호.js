@@ -1,4 +1,9 @@
 function solution(s, n) {
+  const upperStart = String.fromCharCode('A');
+  const upperEnd = String.fromCharCode('Z');
+  const lowerStart = String.fromCharCode('a');
+  const lowerEnd = String.fromCharCode('z');
+
   let answer = '';
   // 글자 하나하나씩을 검사
   for (let i = 0; i < s.length; i++) {
@@ -14,12 +19,12 @@ function solution(s, n) {
     
     // 예외 2. Z 혹은 z를 지나 다시 a로 돌아가야하는 경우
     // 대문자 65 ~ 90
-    if (code >= 65 && code <= 90 && newCode % 65 >= 26) {
+    if (code >= upperStart && code <= upperEnd && newCode % upperStart >= 26) {
       newCode -= 26;
     }
 
     // 소문자 97 ~ 122
-    if (code >= 97 && code <= 122 && newCode % 97 >= 26) {
+    if (code >= lowerStart && code <= lowerEnd && newCode % lowerStart >= 26) {
       newCode -= 26;
     }
 
