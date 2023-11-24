@@ -1,14 +1,68 @@
 function solution(rows, columns, queries) {
-  const matrix = makeMatrix(rows, columns);
+  const matrix = [];
+  let count = 0;
+  for (let i = 0; i < rows; i++) {
+    let arr = [];
+    for (let j = 0; j < columns; j++) {
+      arr.push(count + 1);
+      count += 1;
+    }
+    matrix.push(arr);
+  }
+  const answer = [];
+  queries.forEach((query) => {
+    answer.push(rotate(query, matrix));
+  });
   return answer;
 }
 
-// 1. r * c 행렬을 만든다. 
-function makeMatrix(row, col) {
-  
-  
+function rotate(query, matrix) {
+  const [px1, py1, px2, py2] = query;
+  const [x1, y1, x2, y2] = [px1-1, py1-1, px2-1, py2-1];
+  const upleft = matrix[x1][y1];
+  let minValue = matrix[x1][y1];
+  // 좌변 끌어올리기
+  for (let i = x1; i < x2; i++) {
+    matrix[i][y1] = matrix[i+1][y1];
+    minValue = Math.min(minValue, matrix[i][y1]);
+  }
+  console.log('left', matrix);
+  // 하변 왼쪽으로 밀기
+  for (let i = y1; i < y2; i++) {
+    matrix[x2][i] = matrix[x2][i+1]
+    minValue = Math.min(minValue, matrix[x2][i]);
+  }
+  console.log('down', matrix);
+  // 우변을 아래쪽으로 끌어 당기기
+  for (let i = x2; i > x1; i--) {
+    matrix[i][y2] = matrix[i-1][y2];
+    minValue = Math.min(minValue, matrix[i][y2]);
+  }
+  console.log('right', matrix);
+  // 상변을 오른쪽으로 밀기
+  for (let i = y2; i > y1+1; i--) {
+    matrix[x1][i] = matrix[x1][i-1];
+    minValue = Math.min(minValue, matrix[x1][i]);
+  }
+  console.log('up', matrix);
+  // temp값 지정
+  matrix[x1][y1+1] = upleft;
+  minValue = Math.min(minValue, matrix[x1][y1+1]);
+  console.log('done', matrix);
+
+  return minValue;
 }
 
+// rotate( [2,2,5,4], [
+//   [ 1, 2, 3, 4, 5, 6 ],
+//   [ 7, 8, 9, 10, 11, 12 ],
+//   [ 13, 14, 15, 16, 17, 18 ],
+//   [ 19, 20, 21, 22, 23, 24 ],
+//   [ 25, 26, 27, 28, 29, 30 ],
+//   [ 31, 32, 33, 34, 35, 36 ]
+// ] );
+const inputQueries = [[2,2,5,4],[3,3,6,6],[5,1,6,3]];
+console.log(solution(6, 6, inputQueries));
 // 2. queries에 들어있는 배열들에게 회전 로직을 적용한다. 
 /**
 

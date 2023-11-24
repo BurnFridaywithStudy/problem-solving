@@ -32,13 +32,8 @@ function solution(line) {
     const x = axis[0] - minX; // 상대좌표를 어떻게 구해야하는걸까...
     square[y][x] = "*";
   });
-  let answer = [];
-  square.forEach(arr => {
-    let line = "";
-    Array.from(arr, (item) => line += item);
-    answer.push(line);
-  });
-  return answer;
+
+  return square.map(arr => arr.join(""));
 }
 
 // Ax+ By + C = 0
@@ -87,7 +82,7 @@ let expected = ["....*....", ".........", ".........", "*.......*", ".........",
 
 console.log(result, expected);
 
-input = [[0, 1, -1], [1, 0, -1], [1, 0, 1]]
-result = solution(input);
-expected = ["*.*"]
-console.log(result, expected);
+// input = [[0, 1, -1], [1, 0, -1], [1, 0, 1]]
+// result = solution(input);
+// expected = ["*.*"]
+// console.log(result, expected);
