@@ -2,49 +2,47 @@ function solution(arr1, arr2) {
   const arr1Col = arr1[0].length;
   const arr2Col = arr2[0].length;
   const arr1Row = arr1.length;
-  const arr2Row = arr2.length;
-  
-  const answerArr = []
-  for (let i = 0; i < arr1Row; i++) {
-      answerArr.push([]);
-  }
+  const answerArr = makeEmptyArray(arr1Row, arr2Col);
   
   for (let i = 0; i < arr1Row; i++) {
-      for (let j = 0; j < arr2Col; j++) {
-          arr1[]
+    console.log('i', i);
+    for (let j = 0; j < arr2Col; j++) {
+    	console.log('j', j);
+			let oneBlock = 0;
+      for (let k = 0; k < arr1Col; k++) {
+        console.log('k', k);
+        const result = arr1[i][k] * arr2[k][j];
+				oneBlock += result
+        console.log('result', result);
       }
+			console.log('oneBlock', oneBlock);
+			answerArr[i][j] = oneBlock;
+    }
+    console.log('---')
   }
   
+	console.log(answerArr);
   return answerArr;
 }
 
-// [r * c] * [r * c]
-// arr1의 c와 arr2의 r이 일치해야 곱셈 성사
-// 그 결과 arr1의 r과 arr2의 c를 가진 행렬이 생김
+function makeEmptyArray(arr1Row, arr2Col) {
+    return Array.from(Array(arr1Row), () => Array(arr2Col).fill(0))
+}
 
-// arr1[0][0], arr1[0][1], ...arr1의 row(arr1[0]의 길이)만큼 반복 
-// arr2[0][0], arr2[1][0], arr2[2][0]... arr2의 col만큼 반복
+const arr1 = [[1, 4], [3, 2], [4, 1]];
+const arr2 = [[3, 3], [3, 3]];
+solution(arr1, arr2);
 
 
-// 
-// 3 * 2  x  2 * 2 = 3 * 2
-// [
-//  [1, 4], [[3, 3], = [[15, 15], [15, 15], [15, 15]]
-//  [3, 2],  [3, 3]]	
-//  [4, 1]
-// ]
-
-// arr1[0][0] * arr2[0][0]
-// +
-// arr1[0][1] * arr2[1][0]
-
-// arr1[0][0] * arr2[0][1]
-// +
-// arr1[0][1] * arr2[1][1]
-
-// arr1[0][0] * 
-
-// [ 2, 3, 2 ] [ 5, 4, 3 ]
-// [ 4, 2, 4 ] [ 2, 4, 1 ]
-// [ 3, 1, 4 ] [ 3, 1, 1 ]
-
+/**
+ * 소감
+ * 
+ * 사실 개념은 쉬웠다. 
+ * 그러나 3중 for문을 돌려야하는데 그 순서가 굉장히 햇갈렸다. 
+ * 
+ * 왕도는 없는 듯하다. 
+ * console.log 잘 찍어보면서 계속해서 검증하는 것의 중요성을 느꼈다. 
+ * 
+ * 빈 2차원 배열 만드는 것은 기계적으로 나오도록 연습해야겠다.
+ * 
+ */
