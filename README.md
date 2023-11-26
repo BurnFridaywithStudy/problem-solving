@@ -19,3 +19,8 @@
 | :--------------------------- | :----------------------------------------------------------- |
 | 시저 암호 - Level 1          | https://school.programmers.co.kr/learn/courses/30/lessons/12926 |
 | 이상한 문자 만들기 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/12930 |
+| 튜플 - Level 2               | https://school.programmers.co.kr/learn/courses/30/lessons/64065 |
+| 짝지어 제거하기 - Level 2    | https://school.programmers.co.kr/learn/courses/30/lessons/12973 |
+| 문자열 압축 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/60057 |
+| 3진법 뒤집기 - Level 1       | https://school.programmers.co.kr/learn/courses/30/lessons/68935 |
+| 신규 아이디 추천 - Level 1   | https://school.programmers.co.kr/learn/courses/30/lessons/72410 |
