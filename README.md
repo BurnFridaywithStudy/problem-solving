@@ -30,8 +30,25 @@
 
 ### 3. 재귀
 
+| 문제                   | 링크                                                         |
+| :--------------------- | :----------------------------------------------------------- |
+| 콜라츠 추측 - Level 1  | https://school.programmers.co.kr/learn/courses/30/lessons/12943 |
+| 하노이의 탑 - Level 3  | https://school.programmers.co.kr/learn/courses/30/lessons/12946 |
+| 모음 사전 - Level 2    | https://school.programmers.co.kr/learn/courses/30/lessons/84512 |
+| 호텔 방 배정 - Level 4 | https://school.programmers.co.kr/learn/courses/30/lessons/64063 |
+
+### 4. 완전 탐색
+
 | 문제                  | 링크                                                         |
 | :-------------------- | :----------------------------------------------------------- |
-| 콜라츠 추측 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/12943 |
-| 하노이의 탑 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/12946 |
-| 모음 사전 - Level 2   | https://school.programmers.co.kr/learn/courses/30/lessons/84512 |
+| 모의고사 - Level 1    | https://school.programmers.co.kr/learn/courses/30/lessons/42840 |
+| 카펫 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/42842 |
+| 소수 찾기 - Level 2   | https://school.programmers.co.kr/learn/courses/30/lessons/42839 |
+| 불량 사용자 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/64064 |
+| 수식 최대화 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/67257 |
+
+### 5. 정렬
+
+| 문제                          | 링크                                                         |
+| :---------------------------- | :----------------------------------------------------------- |
+| 두 개 뽑아서 더하기 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/68644 |
