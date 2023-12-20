@@ -1,6 +1,6 @@
 let input = require("fs").readFileSync("test.txt").toString().split("\n");
 
-const [n, m] = input[0].split(" ").map(Number);
+const m = +input;
 const seq = Array(m).fill(0);
 let result = "";
 
@@ -15,7 +15,7 @@ function dfs(k) {
     return (result += `${arr.join(" ")}\n`);
   }
 
-  for (let i = 1; i <= n; i++) {
+  for (let i = 1; i <= 6; i++) {
     seq[k] = i;
     dfs(k + 1);
   }
