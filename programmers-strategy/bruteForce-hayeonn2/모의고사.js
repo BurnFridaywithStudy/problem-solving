@@ -4,6 +4,7 @@ function solution(answers) {
 
   // 수포자 1, 2, 3 이 찍는 방식을 반복되는 것을 기점으로 잘라 배열에 넣기
   const firstPerson = [1, 2, 3, 4, 5];
+
   const secondPerson = [2, 1, 2, 3, 2, 4, 2, 5];
   const thirdPerson = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5];
 
