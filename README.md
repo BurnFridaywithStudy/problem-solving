@@ -56,16 +56,31 @@
 | 문자열 내 마음대로 정하기 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/12915 |
 | 가장 큰 수 - Level 2                | https://school.programmers.co.kr/learn/courses/30/lessons/42746 |
 
+  ### 6. 이진 탐색
+
+| 문제                      | 링크                                                         |
+| :------------------------ | :----------------------------------------------------------- |
+| 입국심사 - Level 3        | https://school.programmers.co.kr/learn/courses/30/lessons/43238 |
+| 순위 검색 - Level 2       | https://school.programmers.co.kr/learn/courses/30/lessons/72412 |
+| 징검다리 건너기 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/64062 |
+
   
 
 ## Baekjoon Online Judge
 
 ### 1. 재귀
 
-| 문제                   | 링크                                        |
-| ---------------------- | ------------------------------------------- |
-| N과 M (1)              | https://www.acmicpc.net/problem/15649       |
-| N과 M (2)              | https://www.acmicpc.net/problem/15650       |
-| N과 M (3)              | https://www.acmicpc.net/problem/15651       |
-| N번 주사위 순열 구하기 | https://www.youtube.com/watch?v=RNU2j-l6mCM |
+| 문제                                                         | 링크                                        |
+| ------------------------------------------------------------ | ------------------------------------------- |
+| N과 M (1) - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15649       |
+| N과 M (2) - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15650       |
+| N과 M (3) - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15651       |
+| N번 주사위 순열 구하기                                       | https://www.youtube.com/watch?v=RNU2j-l6mCM |
 
+### 2. 이진 탐색
+
+| 문제                                                         | 링크                                 |
+| ------------------------------------------------------------ | ------------------------------------ |
+| 나무 자르기 - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2805 |
+| 랜선 자르기 - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1654 |
+| 공유기 설치 - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2110 |
