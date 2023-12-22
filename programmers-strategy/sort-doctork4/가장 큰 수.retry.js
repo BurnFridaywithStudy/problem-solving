@@ -4,7 +4,7 @@ function solution(numbers) {
       return Number(b + a) - Number(a + b);
   });
   
-  if (strNumbers[0] === "0") return "0";
+  if (Number(strNumbers[0]) === 0) return "0";
   
   return strNumbers.join('');
 }
