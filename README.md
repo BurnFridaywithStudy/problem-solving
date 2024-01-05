@@ -63,6 +63,17 @@
 | 입국심사 - Level 3        | https://school.programmers.co.kr/learn/courses/30/lessons/43238 |
 | 순위 검색 - Level 2       | https://school.programmers.co.kr/learn/courses/30/lessons/72412 |
 | 징검다리 건너기 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/64062 |
+| 징검다리 - Level 4        | https://school.programmers.co.kr/learn/courses/30/lessons/43236 |
+
+### 7. 해시
+
+| 문제                         | 링크                                                         |
+| :--------------------------- | :----------------------------------------------------------- |
+| 완주하지 못한 선수 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/42576 |
+| 전화번호 목록 - Level 2      | https://school.programmers.co.kr/learn/courses/30/lessons/42577 |
+| 의상 - Level 2               | https://school.programmers.co.kr/learn/courses/30/lessons/42578 |
+| 오픈 채팅방 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/42888 |
+| 베스트 앨범 - Level 3        | https://school.programmers.co.kr/learn/courses/30/lessons/42579 |
 
   
 
