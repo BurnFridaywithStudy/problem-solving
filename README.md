@@ -108,6 +108,6 @@
 | ------------------------------------------------------------ | ------------------------------------- |
 | 1, 2, 3 더하기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/9095  |
 | 2xn 타일링 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/11726 |
-| 1로 만들기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15651 |
+| 1로 만들기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1463  |
 | 계단 오르기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2579  |
 | 가장 긴 감소하는 부분 수열 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/11722 |
