@@ -75,6 +75,12 @@
 | 오픈 채팅방 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/42888 |
 | 베스트 앨범 - Level 3        | https://school.programmers.co.kr/learn/courses/30/lessons/42579 |
 
+  ### 8. 동적 프로그래밍
+
+| 문제                  | 링크                                                         |
+| :-------------------- | :----------------------------------------------------------- |
+| 피보나치 수 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/12945 |
+
   
 
 ## Baekjoon Online Judge
@@ -83,15 +89,25 @@
 
 | 문제                                                         | 링크                                        |
 | ------------------------------------------------------------ | ------------------------------------------- |
-| N과 M (1) - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15649       |
-| N과 M (2) - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15650       |
-| N과 M (3) - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15651       |
+| N과 M (1) - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15649       |
+| N과 M (2) - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15650       |
+| N과 M (3) - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15651       |
 | N번 주사위 순열 구하기                                       | https://www.youtube.com/watch?v=RNU2j-l6mCM |
 
 ### 2. 이진 탐색
 
 | 문제                                                         | 링크                                 |
 | ------------------------------------------------------------ | ------------------------------------ |
-| 나무 자르기 - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2805 |
-| 랜선 자르기 - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1654 |
-| 공유기 설치 - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2110 |
+| 나무 자르기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2805 |
+| 랜선 자르기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1654 |
+| 공유기 설치 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2110 |
+
+### 3. 동적 프로그래밍
+
+| 문제                                                         | 링크                                  |
+| ------------------------------------------------------------ | ------------------------------------- |
+| 1, 2, 3 더하기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/9095  |
+| 2xn 타일링 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/11726 |
+| 1로 만들기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15651 |
+| 계단 오르기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2579  |
+| 가장 긴 감소하는 부분 수열 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/11722 |
