@@ -80,6 +80,10 @@
 | 문제                  | 링크                                                         |
 | :-------------------- | :----------------------------------------------------------- |
 | 피보나치 수 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/12945 |
+| N으로 표현 - Level 3  | https://school.programmers.co.kr/learn/courses/30/lessons/42895 |
+| 정수 삼각형 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/43105 |
+| 등굣길 - Level 3      | https://school.programmers.co.kr/learn/courses/30/lessons/42898 |
+| 도둑질 - Level 4      | https://school.programmers.co.kr/learn/courses/30/lessons/42897 |
 
   
 
@@ -93,6 +97,7 @@
 | N과 M (2) - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15650       |
 | N과 M (3) - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15651       |
 | N번 주사위 순열 구하기                                       | https://www.youtube.com/watch?v=RNU2j-l6mCM |
+| N-Queen - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/9663        |
 
 ### 2. 이진 탐색
 
