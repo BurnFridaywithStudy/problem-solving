@@ -85,6 +85,15 @@
 | 등굣길 - Level 3      | https://school.programmers.co.kr/learn/courses/30/lessons/42898 |
 | 도둑질 - Level 4      | https://school.programmers.co.kr/learn/courses/30/lessons/42897 |
 
+  ### 9. 자주 등장하는 자료구조
+
+| 문제                   | 링크                                                         |
+| :--------------------- | :----------------------------------------------------------- |
+| 주식 가격 - Level 2    | https://school.programmers.co.kr/learn/courses/30/lessons/42584 |
+| 기능 개발 - Level 2    | https://school.programmers.co.kr/learn/courses/30/lessons/42586 |
+| 가장 먼 노드 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/49189 |
+| 순위 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/49191 |
+
   
 
 ## Baekjoon Online Judge
