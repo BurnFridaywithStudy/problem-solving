@@ -94,6 +94,12 @@
 | 가장 먼 노드 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/49189 |
 | 순위 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/49191 |
 
+### 10. 깊이/너비 우선 탐색(DFS/BFS)
+
+| 문제                       | 링크                                                         |
+| :------------------------- | :----------------------------------------------------------- |
+| 게임 맵 최단거리 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/1844 |
+
   
 
 ## Baekjoon Online Judge
@@ -125,3 +131,12 @@
 | 1로 만들기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1463  |
 | 계단 오르기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2579  |
 | 가장 긴 감소하는 부분 수열 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/11722 |
+
+### 4. 깊이/너비 우선 탐색(DFS/BFS)
+
+| 문제                                                         | 링크                                 |
+| ------------------------------------------------------------ | ------------------------------------ |
+| DFS와 BFS - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1260 |
+| 미로 탐색 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2178 |
+| 토마토 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/7576 |
+| 숨바꼭질 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1697 |
