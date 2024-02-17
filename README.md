@@ -93,6 +93,7 @@
 | 기능 개발 - Level 2    | https://school.programmers.co.kr/learn/courses/30/lessons/42586 |
 | 가장 먼 노드 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/49189 |
 | 순위 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/49191 |
+| 길 찾기 게임 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42892 |
 
 ### 10. 깊이/너비 우선 탐색(DFS/BFS)
 
@@ -100,7 +101,21 @@
 | :------------------------- | :----------------------------------------------------------- |
 | 게임 맵 최단거리 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/1844 |
 
-  
+### 11. 구현
+
+| 문제                           | 링크                                                         |
+| :----------------------------- | :----------------------------------------------------------- |
+| 키패드 누르기 - Level 1        | https://school.programmers.co.kr/learn/courses/30/lessons/67256 |
+| 2개 이하로 다른 비트 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/77885 |
+
+### 12. 탐욕법(Greedy)
+
+| 문제               | 링크                                                         |
+| :----------------- | :----------------------------------------------------------- |
+| 체육복 - Level 1   | https://school.programmers.co.kr/learn/courses/30/lessons/42862 |
+| 조이스틱 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42860 |
+
+
 
 ## Baekjoon Online Judge
 
