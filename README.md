@@ -87,13 +87,14 @@
 
   ### 9. 자주 등장하는 자료구조
 
-| 문제                   | 링크                                                         |
-| :--------------------- | :----------------------------------------------------------- |
-| 주식 가격 - Level 2    | https://school.programmers.co.kr/learn/courses/30/lessons/42584 |
-| 기능 개발 - Level 2    | https://school.programmers.co.kr/learn/courses/30/lessons/42586 |
-| 가장 먼 노드 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/49189 |
-| 순위 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/49191 |
-| 길 찾기 게임 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42892 |
+| 문제                      | 링크                                                         |
+| :------------------------ | :----------------------------------------------------------- |
+| 주식 가격 - Level 2       | https://school.programmers.co.kr/learn/courses/30/lessons/42584 |
+| 기능 개발 - Level 2       | https://school.programmers.co.kr/learn/courses/30/lessons/42586 |
+| 가장 먼 노드 - Level 3    | https://school.programmers.co.kr/learn/courses/30/lessons/49189 |
+| 순위 - Level 3            | https://school.programmers.co.kr/learn/courses/30/lessons/49191 |
+| 길 찾기 게임 - Level 3    | https://school.programmers.co.kr/learn/courses/30/lessons/42892 |
+| 디스크 컨트롤러 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42627 |
 
 ### 10. 깊이/너비 우선 탐색(DFS/BFS)
 
@@ -107,6 +108,9 @@
 | :----------------------------- | :----------------------------------------------------------- |
 | 키패드 누르기 - Level 1        | https://school.programmers.co.kr/learn/courses/30/lessons/67256 |
 | 2개 이하로 다른 비트 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/77885 |
+| 스킬트리 - Level 2             | https://school.programmers.co.kr/learn/courses/30/lessons/49993 |
+| 줄 서는 방법 - Level 2         | https://school.programmers.co.kr/learn/courses/30/lessons/12936 |
+| 큰 수 만들기 - Level 2         | https://school.programmers.co.kr/learn/courses/30/lessons/42883 |
 
 ### 12. 탐욕법(Greedy)
 
@@ -115,7 +119,13 @@
 | 체육복 - Level 1   | https://school.programmers.co.kr/learn/courses/30/lessons/42862 |
 | 조이스틱 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42860 |
 
+### 13. 도전: 카카오 2022 블라인드 테스트
 
+| 문제                     | 링크                                                         |
+| :----------------------- | :----------------------------------------------------------- |
+| 신고 결과 받기 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/92334 |
+
+  
 
 ## Baekjoon Online Judge
 
