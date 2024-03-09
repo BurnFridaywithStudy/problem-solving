@@ -95,12 +95,16 @@
 | 순위 - Level 3            | https://school.programmers.co.kr/learn/courses/30/lessons/49191 |
 | 길 찾기 게임 - Level 3    | https://school.programmers.co.kr/learn/courses/30/lessons/42892 |
 | 디스크 컨트롤러 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42627 |
+| 더 맵게 - Level 2         | https://school.programmers.co.kr/learn/courses/30/lessons/42626 |
 
 ### 10. 깊이/너비 우선 탐색(DFS/BFS)
 
 | 문제                       | 링크                                                         |
 | :------------------------- | :----------------------------------------------------------- |
 | 게임 맵 최단거리 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/1844 |
+| 타겟 넘버 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/43165 |
+| 네트워크 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/43162 |
+| 여행경로 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/43164 |
 
 ### 11. 구현
 
@@ -114,10 +118,11 @@
 
 ### 12. 탐욕법(Greedy)
 
-| 문제               | 링크                                                         |
-| :----------------- | :----------------------------------------------------------- |
-| 체육복 - Level 1   | https://school.programmers.co.kr/learn/courses/30/lessons/42862 |
-| 조이스틱 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42860 |
+| 문제                   | 링크                                                         |
+| :--------------------- | :----------------------------------------------------------- |
+| 체육복 - Level 1       | https://school.programmers.co.kr/learn/courses/30/lessons/42862 |
+| 조이스틱 - Level 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42860 |
+| 큰 수 만들기 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42883 |
 
 ### 13. 도전: 카카오 2022 블라인드 테스트
 
