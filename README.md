@@ -63,6 +63,72 @@
 | 입국심사 - Level 3        | https://school.programmers.co.kr/learn/courses/30/lessons/43238 |
 | 순위 검색 - Level 2       | https://school.programmers.co.kr/learn/courses/30/lessons/72412 |
 | 징검다리 건너기 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/64062 |
+| 징검다리 - Level 4        | https://school.programmers.co.kr/learn/courses/30/lessons/43236 |
+
+### 7. 해시
+
+| 문제                         | 링크                                                         |
+| :--------------------------- | :----------------------------------------------------------- |
+| 완주하지 못한 선수 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/42576 |
+| 전화번호 목록 - Level 2      | https://school.programmers.co.kr/learn/courses/30/lessons/42577 |
+| 의상 - Level 2               | https://school.programmers.co.kr/learn/courses/30/lessons/42578 |
+| 오픈 채팅방 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/42888 |
+| 베스트 앨범 - Level 3        | https://school.programmers.co.kr/learn/courses/30/lessons/42579 |
+
+  ### 8. 동적 프로그래밍
+
+| 문제                  | 링크                                                         |
+| :-------------------- | :----------------------------------------------------------- |
+| 피보나치 수 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/12945 |
+| N으로 표현 - Level 3  | https://school.programmers.co.kr/learn/courses/30/lessons/42895 |
+| 정수 삼각형 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/43105 |
+| 등굣길 - Level 3      | https://school.programmers.co.kr/learn/courses/30/lessons/42898 |
+| 도둑질 - Level 4      | https://school.programmers.co.kr/learn/courses/30/lessons/42897 |
+
+  ### 9. 자주 등장하는 자료구조
+
+| 문제                      | 링크                                                         |
+| :------------------------ | :----------------------------------------------------------- |
+| 주식 가격 - Level 2       | https://school.programmers.co.kr/learn/courses/30/lessons/42584 |
+| 기능 개발 - Level 2       | https://school.programmers.co.kr/learn/courses/30/lessons/42586 |
+| 가장 먼 노드 - Level 3    | https://school.programmers.co.kr/learn/courses/30/lessons/49189 |
+| 순위 - Level 3            | https://school.programmers.co.kr/learn/courses/30/lessons/49191 |
+| 길 찾기 게임 - Level 3    | https://school.programmers.co.kr/learn/courses/30/lessons/42892 |
+| 디스크 컨트롤러 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42627 |
+| 더 맵게 - Level 2         | https://school.programmers.co.kr/learn/courses/30/lessons/42626 |
+
+### 10. 깊이/너비 우선 탐색(DFS/BFS)
+
+| 문제                       | 링크                                                         |
+| :------------------------- | :----------------------------------------------------------- |
+| 게임 맵 최단거리 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/1844 |
+| 타겟 넘버 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/43165 |
+| 네트워크 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/43162 |
+| 여행경로 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/43164 |
+
+### 11. 구현
+
+| 문제                           | 링크                                                         |
+| :----------------------------- | :----------------------------------------------------------- |
+| 키패드 누르기 - Level 1        | https://school.programmers.co.kr/learn/courses/30/lessons/67256 |
+| 2개 이하로 다른 비트 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/77885 |
+| 스킬트리 - Level 2             | https://school.programmers.co.kr/learn/courses/30/lessons/49993 |
+| 줄 서는 방법 - Level 2         | https://school.programmers.co.kr/learn/courses/30/lessons/12936 |
+| 큰 수 만들기 - Level 2         | https://school.programmers.co.kr/learn/courses/30/lessons/42883 |
+
+### 12. 탐욕법(Greedy)
+
+| 문제                   | 링크                                                         |
+| :--------------------- | :----------------------------------------------------------- |
+| 체육복 - Level 1       | https://school.programmers.co.kr/learn/courses/30/lessons/42862 |
+| 조이스틱 - Level 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42860 |
+| 큰 수 만들기 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42883 |
+
+### 13. 도전: 카카오 2022 블라인드 테스트
+
+| 문제                     | 링크                                                         |
+| :----------------------- | :----------------------------------------------------------- |
+| 신고 결과 받기 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/92334 |
 
   
 
@@ -72,15 +138,35 @@
 
 | 문제                                                         | 링크                                        |
 | ------------------------------------------------------------ | ------------------------------------------- |
-| N과 M (1) - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15649       |
-| N과 M (2) - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15650       |
-| N과 M (3) - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15651       |
+| N과 M (1) - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15649       |
+| N과 M (2) - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15650       |
+| N과 M (3) - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/15651       |
 | N번 주사위 순열 구하기                                       | https://www.youtube.com/watch?v=RNU2j-l6mCM |
+| N-Queen - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/9663        |
 
 ### 2. 이진 탐색
 
 | 문제                                                         | 링크                                 |
 | ------------------------------------------------------------ | ------------------------------------ |
-| 나무 자르기 - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2805 |
-| 랜선 자르기 - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1654 |
-| 공유기 설치 - <img width='20' src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2110 |
+| 나무 자르기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2805 |
+| 랜선 자르기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1654 |
+| 공유기 설치 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2110 |
+
+### 3. 동적 프로그래밍
+
+| 문제                                                         | 링크                                  |
+| ------------------------------------------------------------ | ------------------------------------- |
+| 1, 2, 3 더하기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/9095  |
+| 2xn 타일링 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/11726 |
+| 1로 만들기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1463  |
+| 계단 오르기 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2579  |
+| 가장 긴 감소하는 부분 수열 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/11722 |
+
+### 4. 깊이/너비 우선 탐색(DFS/BFS)
+
+| 문제                                                         | 링크                                 |
+| ------------------------------------------------------------ | ------------------------------------ |
+| DFS와 BFS - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1260 |
+| 미로 탐색 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/2178 |
+| 토마토 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/7576 |
+| 숨바꼭질 - <img width='16' src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier"> | https://www.acmicpc.net/problem/1697 |
