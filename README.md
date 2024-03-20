@@ -105,6 +105,7 @@
 | 타겟 넘버 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/43165 |
 | 네트워크 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/43162 |
 | 여행경로 - Level 3         | https://school.programmers.co.kr/learn/courses/30/lessons/43164 |
+| 단어 변환 - Level 3        | https://school.programmers.co.kr/learn/courses/30/lessons/43163 |
 
 ### 11. 구현
 
@@ -126,9 +127,13 @@
 
 ### 13. 도전: 카카오 2022 블라인드 테스트
 
-| 문제                     | 링크                                                         |
-| :----------------------- | :----------------------------------------------------------- |
-| 신고 결과 받기 - Level 1 | https://school.programmers.co.kr/learn/courses/30/lessons/92334 |
+| 문제                                 | 링크                                                         |
+| :----------------------------------- | :----------------------------------------------------------- |
+| 신고 결과 받기 - Level 1             | https://school.programmers.co.kr/learn/courses/30/lessons/92334 |
+| 괄호 변환 - Level 2                  | https://school.programmers.co.kr/learn/courses/30/lessons/60058 |
+| K진수에서 소수 개수 구하기 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/92335 |
+| 주차 요금 계산서 - Level 2           | https://school.programmers.co.kr/learn/courses/30/lessons/92341 |
+| 양궁 대회 - Level 2                  | https://school.programmers.co.kr/learn/courses/30/lessons/92342 |
 
   
 
