@@ -39,13 +39,15 @@
 
 ### 4. 완전 탐색
 
-| 문제                  | 링크                                                         |
-| :-------------------- | :----------------------------------------------------------- |
-| 모의고사 - Level 1    | https://school.programmers.co.kr/learn/courses/30/lessons/42840 |
-| 카펫 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/42842 |
-| 소수 찾기 - Level 2   | https://school.programmers.co.kr/learn/courses/30/lessons/42839 |
-| 불량 사용자 - Level 3 | https://school.programmers.co.kr/learn/courses/30/lessons/64064 |
-| 수식 최대화 - Level 2 | https://school.programmers.co.kr/learn/courses/30/lessons/67257 |
+| 문제                         | 링크                                                         |
+| :--------------------------- | :----------------------------------------------------------- |
+| 모의고사 - Level 1           | https://school.programmers.co.kr/learn/courses/30/lessons/42840 |
+| 카펫 - Level 2               | https://school.programmers.co.kr/learn/courses/30/lessons/42842 |
+| 소수 찾기 - Level 2          | https://school.programmers.co.kr/learn/courses/30/lessons/42839 |
+| 불량 사용자 - Level 3        | https://school.programmers.co.kr/learn/courses/30/lessons/64064 |
+| 수식 최대화 - Level 2        | https://school.programmers.co.kr/learn/courses/30/lessons/67257 |
+| 피로도 - Level2              | https://school.programmers.co.kr/learn/courses/30/lessons/87946 |
+| 전력망을 둘로 나누기- Level2 | https://school.programmers.co.kr/learn/courses/30/lessons/86971 |
 
 ### 5. 정렬
 
